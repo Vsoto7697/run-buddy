@@ -1,7 +1,0 @@
- width: 900px;
-  font-size: 55px;
-  display: inline-block;
-  margin: 0 auto 30px auto;
-  background: #024e76;
-  color: #fce138;
-  overflow: auto;
